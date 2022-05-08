@@ -5,9 +5,10 @@ In this project h2 in-memory table has been used.Initial values has been provide
 H2 admin console runs on "http://localhost:8080/h2-ui/ "
 
 ## Demo
-
+## Category select gif
 ![](https://github.com/egeliahmet/personality-test/blob/main/category_select.gif)
 
+## Save answers gif
 ![](https://github.com/egeliahmet/personality-test/blob/main/save_answers.gif)
 
 ## Run Locally
